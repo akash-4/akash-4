@@ -50,5 +50,5 @@ Hi there, I'm **Akash Agarwal**, a **Full Stack App and Web Developer** and a **
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-4&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/akash-4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-4&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-4&layout=compact&theme=dracula&hide=Dtrace" />
 </a>
