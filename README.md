@@ -17,7 +17,7 @@ Hi there, I'm **Akash Agarwal**, a **Full Stack App and Web Developer** and a **
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at **BOTTLE CO.** as a Software Developer Engineer.
+- 👨🏽‍💻 I’m currently working at **BOTTLE CO.** as a Software Developement Engineer.
 - 🌱 I’m currently learning more of Data Architecture and stuff.
 - 🤔 My interests lies in App Development,Web Development,Backend and Machine Learning.
 - 💼 I’m pursuing a Bachelor's degree in Information Technology.
