@@ -45,6 +45,9 @@ Hi there, I'm **Akash Agarwal**, a **Full Stack App and Web Developer** and a **
 <code><img height="20" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akash-4)](https://github.com/akash/github-readme-stats&hide=prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-4)](https://github.com/akash-4/github-readme-stats)
+<a href="https://github.com/akash/github-readme-stats&hide=prs&show_icons=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-4&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/akash-4/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-4&layout=compact" />
+</a>
