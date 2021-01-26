@@ -18,8 +18,8 @@ Hi there, I'm **Akash Agarwal**, a **Full Stack App and Web Developer** and a **
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Team Lead at **BOTTLE CO.**.
-- 🌱 I’m currently learning more of Data Architecture and stuff.
-- 🤔 My interests lies in App Development,Web Development,Backend Dev and Machine Learning.
+- 🌱 I’m currently learning more of Devops and stuffs.
+- 🤔 My interests lies in App Development,Web Development and Backend Dev.
 - 💼 I’m pursuing a Bachelor's degree in Information Technology.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via hello@akashagarwal.tech to reach me.
